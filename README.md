@@ -12,4 +12,8 @@ common track function for GA & Piwik。
 
 	wa_track_event("分享", "facebook");
 
+封装的函数包括：
 
+* 事件
+* 自定义变量
+* 电子商务
