@@ -10,3 +10,6 @@ function wa_track_event(cate, action, label, value) {
 	
 }
 
+function wa_set_var(key, value) {
+	
+}
