@@ -19,6 +19,6 @@ function wa_track_event(cate, action, label, value) {
 //
 // 自定义变量
 //
-function wa_set_var(key, value) {
+function wa_set_custom_var(key, value) {
 
 }
